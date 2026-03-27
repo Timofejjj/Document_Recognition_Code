@@ -1,0 +1,19 @@
+{
+"модель": "NVIDIA: Nemotron Nano 12B 2 VL (free)"
+}
+
+
+{
+    "document_type": "Продажа",
+    "date": "2026-03-07",
+    "supplier": "Морилеев",
+    "total_amount": 1198.8,
+    "items": [
+        {
+            "name": "Укрепление ЗД-БАВОХРАНЕНИЯ",
+            "quantity": 1.0,
+            "price": 199.8
+        }
+    ],
+    "confidence_score": 1.0
+}
