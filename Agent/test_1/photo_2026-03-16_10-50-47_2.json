@@ -1,0 +1,18 @@
+{
+    "модель": "meta-llama/llama-4-scout-17b-16e-instruct"
+}
+
+{
+    "document_type": "Накладная",
+    "date": "2026-02-25",
+    "supplier": "Могилевское РУП \"Фармация\"",
+    "total_amount": 199.8,
+    "items": [
+        {
+            "name": "ТАМОВИР-ФЕБ ПОР-К ДЛЯ ИНФУЗИЙ ЛИОФ 50МГ ФЛАКОН №1",
+            "quantity": 6.0,
+            "price": 33.3
+        }
+    ],
+    "confidence_score": 0.9
+}

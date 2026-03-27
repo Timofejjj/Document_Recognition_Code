@@ -1,0 +1,28 @@
+{
+    "document_type": "Товарно-транспортная накладная",
+    "document_number": null,
+    "date": "2026-02-25",
+    "supplier": "",
+    "buyer": null,
+    "total_amount": 0.0,
+    "total_vat_amount": null,
+    "items": [
+        {
+            "name": "ТАМОВИР-Р-Р ДЛЯ ИНФУЗИЙ ЛИОФИЛ 50МГ ФЛАКОН №1, сер.010525,31.07.2027 Медф работа №3, ТУ РБ 30016910.001-2025 от 13.06.2025г. держатель ИУПРУП\"Фарма\", договор 64/2025-11",
+            "unit_of_measurement": null,
+            "quantity": 6.0,
+            "price": 0.0,
+            "amount_without_vat": null,
+            "vat_rate": null,
+            "vat_amount": null,
+            "amount_with_vat": null,
+            "notes": null
+        }
+    ],
+    "purchase_form": null,
+    "opening_balance": null,
+    "expense": null,
+    "closing_balance": null,
+    "periods": [],
+    "confidence_score": 0.5
+}
